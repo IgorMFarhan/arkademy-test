@@ -7,7 +7,7 @@ def validateUsername(username):
         return False
 
 def validatePassword(password):
-    if re.match(r"[\d]", password) :
+    if re.match(r"\d\d\d-\d\d\d[A-Z][A-Z][A-Z][A-Z]", password) :
         return True
     else:
         return False
@@ -15,3 +15,8 @@ def validatePassword(password):
 print(validateUsername('tania')) # True
 print(validateUsername('Eka')) # False
 print(validateUsername('mariani')) # False
+
+print(validatePassword('021-333BUDI')) # True
+print(validatePassword('021*444DEA')) # True
+print(validatePassword('987-654Oliv')) # True
+
