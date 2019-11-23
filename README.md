@@ -2,6 +2,8 @@
 
 Written in Python 🐍
 
+<h1>Soal nomor 6c</h1>
+
 <h2>Halaman Home</h2>
 
 ![SS 1](https://github.com/IgorMFarhan/arkademy-test/blob/master/capture/home.png)
