@@ -1,6 +1,6 @@
 # Arkademy Test
 
-Written in Python 🐍
+Written in Python 🐍 not completed, I believe I could make it if I had more time 😭 but I would finish it even it won't be considered 😊
 
 <h1>Soal nomor 6c</h1>
 
