@@ -1,1 +1,3 @@
-# arkademy-test
+# Arkademy Test
+
+Written in Python 🐍
