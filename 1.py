@@ -41,4 +41,4 @@ def biodata(name,age):
     return json.dumps(myBiodata)
 
 
-print(biodata('Igor',23))
+print(biodata('Igor Muhammad Farhan',23))
