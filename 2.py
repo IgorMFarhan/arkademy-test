@@ -12,5 +12,6 @@ def validatePassword(password):
     else:
         return False
     
-print(validateUsername('aaaa'))
-print(validatePassword('123'))
+print(validateUsername('tania')) # True
+print(validateUsername('Eka')) # False
+print(validateUsername('mariani')) # False
